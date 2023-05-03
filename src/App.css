@@ -38,6 +38,11 @@
   }
 }
 .photo{
-  width: 250px;
+  width: 500px;
   height: 250px;
+}
+
+.Profil h1,h3{
+  color: blue;
+
 }
